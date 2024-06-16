@@ -2,17 +2,27 @@
   <img src="https://media.licdn.com/dms/image/D4D12AQGqsMbe-JqJZg/article-cover_image-shrink_720_1280/0/1706548347733?e=2147483647&v=beta&t=OrGD86kM4qSeolxZY9ZuI9zKGzdTp_CIG3fG4sXIpks" >
 </p>
 
-###  Tenho interesse em desenvolver projetos que melhorem significativamente a vida das pessoas em escala global.
-- 🧭 Eu trabalho na área de Machine Learning desde 2014 atuando tanto em projetos acadêmicos como em projetos de desenvolvimento nas empresas;
-- 👩🏻‍💻 Sou Engenheiro de Aprendizado de Máquina SR no Samsung Institute for Development Informatics (SIDI);
-- 👨‍🏫 Sou Professor na [Unichristus](https://unichristus.edu.br/) em Fortaleza
-- 📝 Doutorando, Mestre e Graduado em Ciência da Computação;
-- 📊 Colaboro com projetos de pesquisas no Laboratório de Pesquisa [CENTRO DE REFERÊNCIA EM INTELIGÊNCIA ARTIFICIAL - CEREIA](https://iasaudepublica.com.br/cereia-centro-de-referencia-em-inteligencia-artificial/);
-- 📚 Escritor artigos em periódicos e conferências nacionais e internacionais nas seguintes áreas: Ciência de Dados, Inteligência Artificial, Aprendizado de Máquina, Processamento de Linguagem Natural e Processamento Digital de Imagens;
-- 🧠 Venho aprimorando constantemente minhas habilidades
+### Hello, I'm Gilvan Magalhães,
+#### Lead Machine Learning Engineering at SiDi | PhD Student in Computer Science | Machine Learning Expert | Data Engineering Enthusiast
+
+[<img align="left" alt="LinkedIn Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/gilvanveras/)
+[<img align="left" alt="LinkedIn Icon" width="132px" style="margin-left: 10px;" src="http://buscatextual.cnpq.br/buscatextual/images/titulo-sistema.png" />](http://lattes.cnpq.br/1369836102076813)
+
+<br/>
+<hr />
+
+### I am interested in developing projects that significantly improve people's lives on a global scale.
+- 🧭 I have been working in Machine Learning since 2014, contributing to academic and corporate development projects;
+- 👩🏻‍💻 I am a Senior Machine Learning Engineer at the Samsung Institute for Development Informatics (SIDI);
+- 📝 I hold a PhD, Master's, and Bachelor's degrees in Computer Science;
+- 📊 I collaborate on research projects at the [CENTER OF REFERENCE IN ARTIFICIAL INTELLIGENCE - CEREIA](https://iasaudepublica.com.br/cereia-centro-de-referencia-em-inteligencia-artificial/);
+- 📚 I write articles for national and international journals and conferences in the following areas: Data Science, Artificial Intelligence, Machine Learning, Natural Language Processing, and Digital Image Processing;
+- 🧠 I am constantly improving my skills.
+
+<br/>
 <br/>
 
-### Linguagens e Ferramentas:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
@@ -57,18 +67,21 @@ src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
 
 <br/>
 <br/>
+<br/>
 
-### Artigos Científicos 📝:
-- [XRaySwinGen: Automatic medical reporting for X-ray exams with multimodal model](http://dx.doi.org/10.1016/j.heliyon.2024.e27516) 
-- [A Study of the Influence of Textual Features in Learning Medical Prior Authorization](http://dx.doi.org/10.1109/CBMS.2019.00021) 
-- [How to Avoid Customer Churn in Health Insurance/Plans? A Machine Learn Approach](http://dx.doi.org/10.1109/CBMS.2019.00115) 
-- [Um Método de Avaliação da Importância de Medidas para Predição da Nota de um Filme](https://sol.sbc.org.br/index.php/brasnam/article/view/3248/3210)
-- [Um estudo experimental baseado em Sistemas Fuzzy e Redes Neurais Artificiais para Estimar a Importância de Opiniões sobre Produtos e Serviços](http://www.eripi.com.br/2016/anais-2016/artigos)
-- [Introdução ao Processamento de Linguagem Natural usando Python](https://www.facom.ufu.br/~wendelmelo/terceiros/tutorial_nltk.pdf)
+### Scientific Papers 📝:
+- [XRaySwinGen: Automatic medical reporting for X-ray exams with multimodal model](http://dx.doi.org/10.1016/j.heliyon.2024.e27516);
+- [A Study of the Influence of Textual Features in Learning Medical Prior Authorization](http://dx.doi.org/10.1109/CBMS.2019.00021);
+- [How to Avoid Customer Churn in Health Insurance/Plans? A Machine Learn Approach](http://dx.doi.org/10.1109/CBMS.2019.00115);
+- [Um Método de Avaliação da Importância de Medidas para Predição da Nota de um Filme](https://sol.sbc.org.br/index.php/brasnam/article/view/3248/3210);
+- [Um estudo experimental baseado em Sistemas Fuzzy e Redes Neurais Artificiais para Estimar a Importância de Opiniões sobre Produtos e Serviços](http://www.eripi.com.br/2016/anais-2016/artigos);
+- [Introdução ao Processamento de Linguagem Natural usando Python](https://www.facom.ufu.br/~wendelmelo/terceiros/tutorial_nltk.pdf).
 
 <br/>
 <br/>
 
-[<img align="left" alt="Gilvan Veras | [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/gilvanveras/)
-</br>
-</br>
+<p align="center">
+  <a href="[https://www.example.com](https://img.elo7.com.br/product/zoom/3EF316C/placa-decorativa-that-s-all-folks-infantil.jpg)">
+    <img alt="That's All Folks" width="400px" src="https://img.elo7.com.br/product/zoom/3EF316C/placa-decorativa-that-s-all-folks-infantil.jpg" />
+  </a>
+</p>
