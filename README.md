@@ -26,44 +26,41 @@
 
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />](https://www.python.org/)
 
-<img align="left" alt="Java" width="26px" 
-src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />
+[<img align="left" alt="Java" width="26px" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png" />](https://www.java.com/)
 
-<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+[<img align="left" alt="Scikit-learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
 
-<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+[<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />](https://keras.io/)
 
-<img align="left" alt="TensorFlow" width="26px" src="http://www.lapix.ufsc.br/wp-content/uploads/2018/04/q8sc1KuZ_400x400.jpg" />
+[<img align="left" alt="TensorFlow" width="26px" src="http://www.lapix.ufsc.br/wp-content/uploads/2018/04/q8sc1KuZ_400x400.jpg" />](https://www.tensorflow.org/)
 
-<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />
+[<img align="left" alt="Pytorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pytorch.svg" />](https://pytorch.org/)
 
-<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />
+[<img align="left" alt="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />](https://pandas.pydata.org/)
 
-<img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" />
+[<img align="left" alt="Dask" width="26px" src="https://docs.dask.org/en/latest/_images/dask_icon.svg" />](https://www.dask.org/)
 
-<img align="left" alt="Spark" width="26px" src="https://miro.medium.com/max/580/1*I7bOyAqdM489ct9eDtf89A.png" />
+[<img align="left" alt="Spark" width="26px" src="https://miro.medium.com/max/580/1*I7bOyAqdM489ct9eDtf89A.png" />](https://spark.apache.org/)
 
-<img align="left" alt="Matplotlib" width="26px" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" />
+[<img align="left" alt="Matplotlib" width="26px" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" />](https://matplotlib.org/)
 
-<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+[<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />](https://seaborn.pydata.org/)
 
-<img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />
+[<img align="left" alt="Plotly" width="26px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" />](https://plotly.com/)
 
-<img align="left" alt="Flask" width="26px" src="https://miro.medium.com/max/700/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />
+[<img align="left" alt="Flask" width="26px" src="https://miro.medium.com/max/700/1*Q5EUk28Xc3iCDoMSkrd1_w.png" />](https://flask.palletsprojects.com/)
 
-<img align="left" alt="PostgreeSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
+[<img align="left" alt="PostgreeSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />](https://www.postgresql.org/)
 
-<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/300/1*fY5KPXK0C6csHKhnXkQQ8g.png" />
+[<img align="left" alt="MongoDB" width="26px" src="https://miro.medium.com/max/300/1*fY5KPXK0C6csHKhnXkQQ8g.png" />](https://www.mongodb.com/)
 
-<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" />
+[<img align="left" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/574px-Selenium_Logo.png" />](https://www.selenium.dev/)
 
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />
+[<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/amazonaws.svg" />](https://aws.amazon.com/)
 
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
-<!--<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
--->
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>](https://github.com/)
 
 <br/>
 <br/>
