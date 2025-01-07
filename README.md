@@ -3,7 +3,7 @@
 </p>
 
 ### Hello, I'm Gilvan Magalhães,
-#### Lead Machine Learning Engineering at SiDi | PhD Student in Computer Science | Machine Learning Expert | Data Engineering Enthusiast
+#### Data Science Engineering at Luizalabs | PhD Student in Computer Science | Machine Learning Expert | Data Engineering Enthusiast
 
 [<img align="left" alt="LinkedIn Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/gilvan-veras/)
 [<img align="left" alt="LinkedIn Icon" width="132px" style="margin-left: 10px;" src="http://buscatextual.cnpq.br/buscatextual/images/titulo-sistema.png" />](http://lattes.cnpq.br/1369836102076813)
